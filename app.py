@@ -4,7 +4,7 @@ import pandas as pd
 
 teams = ['Sunrisers Hyderabad',
  'Mumbai Indians',
- 'Royal Challengers Bangaluru',
+ 'Royal Challengers Bangalore',
  'Kolkata Knight Riders',
  'Kings XI Punjab',
  'Chennai Super Kings',
